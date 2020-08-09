@@ -9,7 +9,6 @@ end
 def add_element_to_end_of_array
   dog_breeds = ["Husky", "Golden Retriever", "German Shepard", "Beagle"]
   dog_breeds << "Malamute"
-  p dog_breeds
 end
 
 def add_element_to_start_of_array(array, element)
