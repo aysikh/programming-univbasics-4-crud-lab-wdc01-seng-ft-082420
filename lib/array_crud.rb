@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   dog_breeds = ["Husky", "Golden Retriever", "German Shepard", "Beagle"]
-  dog_breeds.push ("Malamute")
+  dog_breeds.push ("arrays!")
   p dog_breeds
 end
 
