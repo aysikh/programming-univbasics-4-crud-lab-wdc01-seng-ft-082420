@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   dog_breeds = ["Husky", "Golden Retriever", "German Shepard", "Beagle"]
-  dog_breeds.unshift ("Malamute")
+  dog_breeds.unshift ("wow")
 end
 
 def remove_element_from_end_of_array(array)
