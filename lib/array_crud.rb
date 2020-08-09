@@ -23,7 +23,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  array = ["Wow", "I", "am", "really", "learning", "arrays!"]
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
   first_word = array.shift
 end
 
